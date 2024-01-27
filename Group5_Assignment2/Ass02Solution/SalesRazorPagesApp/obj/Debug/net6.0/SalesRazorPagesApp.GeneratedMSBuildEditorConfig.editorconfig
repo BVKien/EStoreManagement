@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SalesRazorPagesApp
+build_property.RootNamespace = SalesRazorPagesApp
+build_property.ProjectDir = D:\FPT_University_Hoa_Lac\Ky_7_Spring_2024\PRN221\Assigment\Assignment2\Group5_Assignment2\Ass02Solution\SalesRazorPagesApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FPT_University_Hoa_Lac\Ky_7_Spring_2024\PRN221\Assigment\Assignment2\Group5_Assignment2\Ass02Solution\SalesRazorPagesApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Members/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xNZW1iZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Members/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xNZW1iZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Members/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xNZW1iZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Members/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xNZW1iZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Members/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xNZW1iZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xQcm9kdWN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xQcm9kdWN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xQcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xQcm9kdWN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xQcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/AdminPages/Reports/ReportManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlc1xSZXBvcnRzXFJlcG9ydE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/OrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/OrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/OrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/OrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/OrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/MemberPages/Profile/MemberProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZXNcUHJvZmlsZVxNZW1iZXJQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_University_Hoa_Lac/Ky_7_Spring_2024/PRN221/Assigment/Assignment2/Group5_Assignment2/Ass02Solution/SalesRazorPagesApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3la1jltnnh

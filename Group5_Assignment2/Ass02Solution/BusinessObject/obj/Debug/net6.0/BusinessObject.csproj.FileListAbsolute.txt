@@ -1,0 +1,15 @@
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.sourcelink.json
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Dopii\Desktop\tmp\EStoreManagement\Group5_Assignment2\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

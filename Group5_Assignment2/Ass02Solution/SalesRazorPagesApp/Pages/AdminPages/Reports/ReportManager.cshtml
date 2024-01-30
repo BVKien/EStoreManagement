@@ -1,6 +1,31 @@
 ﻿@page
+@using BusinessObject.Models
+@using Repository.Reports
 @model SalesRazorPagesApp.Pages.AdminPages.Reports.ReportManagerModel
 @{
+    
 }
 
-<h1>Report Manager</h1>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<h1 class="text-center">Report Manager</h1>
+<hr />
+
+<table class="table table-responsive-xxl border rounded">
+    <tr>
+        <th>Order Id</th>
+        <th>Order Date</th>
+        <th>Shipped Date</th>
+        <th>Revenue</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in (List<OrderReportRepository>)ViewData["report"]!)
+    {
+        <tr>
+            <th>@item.OrderId</th>
+            <th>@item.OrderDate</th>
+            <th>@item.ShippedDate</th>
+            <th>@item.Revenue</th>
+            <th><button class="btn btn-primary">Details</button></th>
+        </tr>
+    }
+</table>

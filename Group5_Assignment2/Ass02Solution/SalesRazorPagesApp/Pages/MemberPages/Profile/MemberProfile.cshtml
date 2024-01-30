@@ -1,6 +1,23 @@
 ﻿@page
 @model SalesRazorPagesApp.Pages.MemberPages.Profile.MemberProfileModel
-@{
-}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-<h1>Member Profile</h1>
+<h1 style="align-content:center">Member Profile - Author Vuong Quoc Anh</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS167rCp9mKFPIQo0E5lfr9p2OIqZ2XpU9wgbDkoUC5tQ&s" 
+style="align-items:center"/>
+<form method="post" style="align-content:center">
+    <div>
+       <label asp-for="member.Email">Email</label>
+       <input asp-for="member.Email" class="form-control"/>
+        <label asp-for="member.CompanyName">CompanyName</label>
+        <input asp-for="member.CompanyName" class="form-control" />
+        <label asp-for="member.City">City</label>
+        <input asp-for="member.City" class="form-control" />
+        <label asp-for="member.Country">Country</label>
+        <input asp-for="member.Country" class="form-control" />
+        <label asp-for="member.Password">Email</label>
+        <input asp-for="member.Password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+
+</form>

@@ -1,0 +1,15 @@
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\bin\Debug\net6.0\Repository.dll
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\bin\Debug\net6.0\Repository.pdb
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\bin\Debug\net6.0\BusinessObject.dll
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\bin\Debug\net6.0\BusinessObject.pdb
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.dll
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\Repository.pdb
+D:\FU_Learning\PRN221\EStoreManagement\Group5_Assignment2\Ass02Solution\Repository\obj\Debug\net6.0\ref\Repository.dll
